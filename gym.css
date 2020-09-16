@@ -1,0 +1,5 @@
+body{background: url(new_gym.jpeg) no-repeat center center fixed;font-family: 'Baloo', cursive;}
+div{background-color: #cc450b;width: 40%;margin:100px auto;text-align: center;border-radius: 25px;opacity: .6}
+button{background: orange;padding: 20px;color: white; font-size: 2em;border-radius: 10px}
+h1{font-size: 4em}
+p{font-size: 1.8em}
